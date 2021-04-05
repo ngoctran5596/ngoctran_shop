@@ -1,14 +1,14 @@
 {
   "expo": {
-    "name": "androidNetworking",
-    "slug": "androidNetworking",
+    "name": "Shop",
+    "slug": "shop_ngoc",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/SHOP.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/SHOP.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#171717"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
